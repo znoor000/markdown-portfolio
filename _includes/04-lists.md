@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+my favorite things:
+1. parakeets
+2. boba tea
+3. nachos
+    - and frozen yogurt 
